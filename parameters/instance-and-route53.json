@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "KeyName",
-    "ParameterValue": "tutorial"
+    "ParameterValue": "jenkins-aws"
   },
   {
     "ParameterKey": "InstanceType",
